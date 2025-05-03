@@ -1,0 +1,92 @@
+.navbar{
+    background-color: yellowgreen;
+    color:yellowgreen;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ 
+   }
+ a{
+color:white;
+padding-left: 20px;
+padding-right: 20px;
+text-decoration: none;
+/*background-color: blueviolet;
+*/padding-top:20px;
+padding-bottom: 20px;
+font-size: 18px;
+font-style: inherit;
+
+}
+.navbar input[type=text] {
+    float: right;
+    padding: 8px;
+    border: none;
+    margin-top: 2px;
+    margin-right: 16px;
+    font-size: 17px;
+    margin-bottom: 20px;
+  }
+  
+.mainf{
+    background-color: azure;
+    color: white;
+    /*padding-top: 300px;*/
+    padding-bottom:5px;
+
+}
+#tab1{
+    font-size: 40px;
+text-align:center;
+
+/*padding-left: 40%;
+padding-right: 40%;
+*/padding-top: 50px;
+color:black
+    
+}
+#t{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+  }
+#tab2{
+    font-size: 20px;
+text-align: center;
+text-align: justify;
+padding-left: 20%;
+padding-right: 20%;
+padding-top: 50px;
+color:black
+
+    
+}
+.footer{
+    text-align: center;
+    color:black;
+    font-size:20px;
+  background-color: yellowgreen;
+    padding-bottom:30px;
+   
+    padding-top: 20px;
+    margin-top: 50px;
+}
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+   
+  }
+img{
+    
+    width: 300px;
+    height:300px;
+    
+}
